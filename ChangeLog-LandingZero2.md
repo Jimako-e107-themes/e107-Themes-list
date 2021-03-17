@@ -1,7 +1,7 @@
-# [e107 Bootstrap Landing Zero 2](https://www.e107sk.com/)"
+# [e107 Bootstrap Landing Zero 2](https://www.e107sk.com/)
 
 
-/*******  Version 1.5 *******/
+## Version 1.5  
 
 Version 1.5.0
 
@@ -15,7 +15,7 @@ Version 1.5.0
 - FIXED Used LAN shortcode for theme LAN string - PHP8 fix
 
 
-/*******  Version 1.4 *******/
+## Version 1.4 
 
 Version 1.4.2 Fixed 
 
@@ -37,7 +37,8 @@ Version 1.3.0
 - ADDED extended Theme Options 
 - ADDED extended Login page Configuraton
 
-/*******  Version 1.2 *******/
+
+## Version 1.2 
 
 Version 1.2.2 [not released, fixed only custom theme UG]
 
