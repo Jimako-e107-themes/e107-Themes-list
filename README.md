@@ -12,8 +12,8 @@ The list of themes fixed and tested with e107 version 2.3.1
 
 ## Themes with extended support (access to private repos)
 
-* [Landing Zero 2 e107 Theme](https://github.com/e107-themes/Landing-Zero-2) - version 1.5, for e107 2.3.1 
-* [Landing Zero UG e107 Theme](https://github.com/e107-themes/LZ-theme-for-urbangamers) - version 1.2.2, for e107 2.3.1 
+* [Landing Zero 2 e107 Theme](https://github.com/e107-themes/Landing-Zero-2-version-1.5) - version 1.5.0, for e107 2.3.1, PHP 8 
+* [Landing Zero UG e107 Theme](https://github.com/e107-themes/LZ-theme-for-urbangamers) - version 1.2.2, for e107 2.3.1, PHP 7.4 
 
  
 
