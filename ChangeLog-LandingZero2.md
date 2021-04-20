@@ -5,6 +5,11 @@
 
 Version 1.5.0
 
+- REMOVED support for Login page as standalone page (not supported by core)
+- REMOVED support for FPW in modal (not supported by core)
+- ADDED support for Signin plugin, {SIGNIN} shortcode
+- REMOVED support for {{MEMBER_LOGIN}} and {USERBOX}
+- ADDED support for {NAVBAR_BRANDING}
 - ADDED support for JMLayouts plugin
 - REMOVED support for JMTheme plugin
 - FIXED theme.php for new standards (e107 2.3.1 after 10.3.2021 )

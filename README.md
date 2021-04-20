@@ -4,11 +4,13 @@ The list of themes fixed and tested with e107 version 2.3.1
 
 ## Premium Themes (private repos)
 
-* [AppStrap e107 Theme](https://github.com/e107-Appstrap-theme) - fixed 
+* [AppStrap e107 Theme](https://github.com/e107-Appstrap-theme) - fixed for 2.3.1
+
 * [Cayman e107 Theme](https://github.com/e107-Cayman-theme) - new theme with new standards
 
-
-
+* [Gaia e107 Theme](https://github.com/e107-Gaia-Hestia-themes) - new version for 2.3.1
+* [Hestia e107 Theme](https://github.com/e107-Gaia-Hestia-themes) - new version for 2.3.1
+ 
 
 ## Themes with extended support (access to private repos)
 
