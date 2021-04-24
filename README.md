@@ -19,7 +19,8 @@ The list of themes fixed and tested with e107 version 2.3.1
 
  
 
-
 ## Free themes with forum support only 
 
 * [Landing Zero 2 e107 Theme version 1.4](https://github.com/e107-themes/Landing-Zero-2-version-1.4) - version 1.4.2, for e107 2.3.0 only
+* [SkyApp e107 Theme version 2.0](https://github.com/e107-themes/skyapp-e107-theme) - version 2.0.2, for e107 2.3.1 only
+
