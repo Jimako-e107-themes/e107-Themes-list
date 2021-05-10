@@ -24,3 +24,11 @@ The list of themes fixed and tested with e107 version 2.3.1
 * [Landing Zero 2 e107 Theme version 1.4](https://github.com/e107-themes/Landing-Zero-2-version-1.4) - version 1.4.2, for e107 2.3.0 only
 * [SkyApp e107 Theme version 2.0](https://github.com/e107-themes/skyapp-e107-theme) - version 2.0.2, for e107 2.3.1 only
 
+
+## Other themes [private repo only]
+Old themes updated for version 2 without release.
+
+* [e107 Games Plus by maw](https://github.com/e107-themes/e107-Games-Plus-maw-theme)  
+* [e107 Cadet Theme by maw](https://github.com/e107-themes/e107-Cadet-Plus-maw-theme)  
+* [e107 Flat Theme by maw](https://github.com/e107-themes/e107-Flat-maw-theme) 
+
