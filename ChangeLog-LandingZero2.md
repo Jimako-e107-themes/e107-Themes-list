@@ -3,6 +3,13 @@
 
 ## Version 1.5  
 
+
+Version 1.5.1 Fixed
+
+- FIXED mistypo for masthead template
+- FIXED autoplay video for Chrome, see: https://stackoverflow.com/questions/34764876/html-5-video-autoplay-not-automatically-starting-in-chrome
+
+
 Version 1.5.0
 
 - REMOVED support for Login page as standalone page (not supported by core)
