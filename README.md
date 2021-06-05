@@ -19,6 +19,8 @@ The list of themes fixed and tested with e107 version 2.3.1
 
 * [Landing Zero UG e107 Theme](https://github.com/e107-themes/LZ-theme-for-urbangamers) - version 1.2.2, for e107 2.3.1, PHP 7.4 
 
+* [Landing Zero SC e107 Theme](https://github.com/e107-themes/LZ-theme-for-scupone) - version 1.4.2 Local, for e107 2.3.0, PHP 7.4
+
  
 
 ## Free themes with forum support only 
