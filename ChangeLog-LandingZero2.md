@@ -8,7 +8,7 @@ Version 1.5.1 Fixed
 
 - FIXED mistypo for masthead template
 - FIXED autoplay video for Chrome, see: https://stackoverflow.com/questions/34764876/html-5-video-autoplay-not-automatically-starting-in-chrome
-
+- FIXED missing placeholders in contact menu
 
 Version 1.5.0
 
@@ -28,6 +28,12 @@ Version 1.5.0
 
 
 ## Version 1.4 
+
+Version 1.4.3 Fixed 
+
+- FIXED mistypo for masthead template
+- FIXED autoplay video for Chrome, see: https://stackoverflow.com/questions/34764876/html-5-video-autoplay-not-automatically-starting-in-chrome
+- FIXED missing placeholders in contact menu
 
 Version 1.4.2 Fixed 
 
