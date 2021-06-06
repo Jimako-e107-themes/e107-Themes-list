@@ -6,6 +6,7 @@
 
 Version 1.5.1 Fixed
 
+- REMOVED signup template, core one is used
 - FIXED mistypo for masthead template
 - FIXED autoplay video for Chrome, see: https://stackoverflow.com/questions/34764876/html-5-video-autoplay-not-automatically-starting-in-chrome
 - FIXED missing placeholders in contact menu
