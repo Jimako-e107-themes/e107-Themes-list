@@ -6,6 +6,7 @@
 
 Version 1.5.1 Fixed
 
+- REMOVED theme solution for SITEDISLAIMER, core is used now
 - REMOVED signup template, core one is used
 - FIXED mistypo for masthead template
 - FIXED autoplay video for Chrome, see: https://stackoverflow.com/questions/34764876/html-5-video-autoplay-not-automatically-starting-in-chrome
@@ -32,6 +33,7 @@ Version 1.5.0
 
 Version 1.4.3 Fixed 
 
+- REMOVED theme solution for SITEDISLAIMER, core is used now
 - FIXED mistypo for masthead template
 - FIXED autoplay video for Chrome, see: https://stackoverflow.com/questions/34764876/html-5-video-autoplay-not-automatically-starting-in-chrome
 - FIXED missing placeholders in contact menu
