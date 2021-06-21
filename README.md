@@ -33,7 +33,8 @@ The list of themes fixed and tested with e107 version 2.3.1
 
 * [SkyApp e107 Theme version 2.0](https://github.com/e107-themes/skyapp-e107-theme) - version 2.0.2, for e107 2.3.1 only
 
-* [RideBLue2 e107 bootstrap3 theme](https://github.com/e107-themes/rideblue2-e107-bootstrap3-theme) - 
+* [RideBLue e107 theme](https://github.com/e107-themes/Rideblue-e107-theme) - Rideblue2 + Rideblue3 themes
+
 
 
 ## Other themes [private repo only]

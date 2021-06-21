@@ -3,9 +3,11 @@
 
 ## Version 1.5  
 
+Version 1.5.2  
+
+- ADDED options to load fonts locally
 
 Version 1.5.1 Fixed
-
 - REMOVED theme solution for SITEDISLAIMER, core is used now
 - REMOVED signup template, core one is used
 - FIXED mistypo for masthead template
