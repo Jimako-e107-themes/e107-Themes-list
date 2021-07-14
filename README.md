@@ -52,3 +52,17 @@ No plans to release, just helping somebody
 Theme based on this HTML template: https://bootstrapious.com/p/juliette-bootstrap-feminine-blog-template
 
 More info: https://www.e107sk.com/forum/general-theme-questions/260/juliette-theme-development-notes/
+
+
+## Themes in development
+Themes for testing purposes only
+
+* [e107 Epiphany Bootstrap5 theme ](https://github.com/e107-themes/e107-Epiphany-theme) 
+
+Epiphany is e107 theme based on efiction responsive skin by artphilia. Testing with bootstrap5. Primary for efiction plugin.  
+
+* [e107 Artemis Bootstrap5 theme](https://github.com/e107-themes/e107-Artemis-theme) 
+
+Artemis is e107 theme based on Soft UI Design System (Free & Open Source Web UI Kit built over Bootstrap 5.) created by Creative Tim.
+
+
