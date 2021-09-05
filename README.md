@@ -55,14 +55,21 @@ More info: https://www.e107sk.com/forum/general-theme-questions/260/juliette-the
 
 
 ## Themes in development
-Themes for testing purposes only
 
-* [e107 Epiphany Bootstrap5 theme ](https://github.com/e107-themes/e107-Epiphany-theme) 
+Themes for testing purposes only. 
 
-Epiphany is e107 theme based on efiction responsive skin by artphilia. Testing with bootstrap5. Primary for efiction plugin.  
+* [e107 Epiphany Bootstrap theme ](https://github.com/e107-themes/e107-Epiphany-theme) 
+
+Epiphany is e107 theme based on efiction responsive skin by artphilia. Testing with bootstrap. Primary for efiction plugin.  
 
 * [e107 Artemis Bootstrap5 theme](https://github.com/e107-themes/e107-Artemis-theme) 
 
 Artemis is e107 theme based on Soft UI Design System (Free & Open Source Web UI Kit built over Bootstrap 5.) created by Creative Tim.
 
+* [e107 Sommerbrise Bootstrap5 theme ](https://github.com/e107-themes/Sommerbrise) 
 
+Sommerbrise is e107 theme based on efiction responsive skin by artphilia. Testing with bootstrap5. Primary for efiction plugin.  
+
+* [e107 Snow White Bootstrap5 theme ](https://github.com/Jimako-e107-themes/SnowWhite) 
+
+Snow White is e107 theme based on efiction responsive skin by artphilia. Testing with bootstrap5. Primary for efiction plugin.  
