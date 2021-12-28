@@ -53,6 +53,11 @@ Theme based on this HTML template: https://bootstrapious.com/p/juliette-bootstra
 
 More info: https://www.e107sk.com/forum/general-theme-questions/260/juliette-theme-development-notes/
 
+* [e107 Vine Yard theme](https://github.com/Jimako-e107-themes/Vine-Yard)
+
+Theme based on this HTML template: https://elements.envato.com/vine-yard-html-template-GZE3EK
+
+
 
 ## Themes in development
 
