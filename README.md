@@ -11,7 +11,8 @@ The list of themes fixed and tested with e107 version 2.3.1
 * [Gaia e107 Theme](https://github.com/e107-Gaia-Hestia-themes) - new version for 2.3.1
 
 * [Hestia e107 Theme](https://github.com/e107-Gaia-Hestia-themes) - new version for 2.3.1
- 
+
+
 
 ## Themes with extended support (access to private repos)
 
@@ -78,3 +79,9 @@ Sommerbrise is e107 theme based on efiction responsive skin by artphilia. Testin
 * [e107 Snow White Bootstrap5 theme ](https://github.com/Jimako-e107-themes/SnowWhite) 
 
 Snow White is e107 theme based on efiction responsive skin by artphilia. Testing with bootstrap5. Primary for efiction plugin.  
+
+* [Cayman e107 Theme](https://github.com/Jimako-e107-themes/Cayman-Themes) 
+
+Not released. It uses bootstrap3, there is not reason to continue when bootstrap5 is out
+
+
