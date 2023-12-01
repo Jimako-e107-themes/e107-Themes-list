@@ -67,8 +67,4 @@ Theme with AYRO-UI design elements
 
 Theme with AYRO-UI design elements. Not released.  Private repo.
 
-* [Cayman e107 Theme](https://github.com/Jimako-e107-themes/Cayman-Themes) 
-
-Not released. It uses bootstrap3, there is not reason to continue when bootstrap5 is out
-
-
+ 
