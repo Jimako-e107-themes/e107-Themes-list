@@ -9,9 +9,9 @@ If you find a problem, report it as issue and I will try to fix it.  But those t
 
  
 
-The list of themes fixed and tested with e107 version 2.3.1
+## The list of themes fixed and tested with e107 version 2.3.1
 
-## Premium Themes (private repos)
+### Premium Themes (private repos)
 
 * [AppStrap e107 Theme](https://github.com/e107-Appstrap-theme) - fixed for 2.3.1
 
@@ -23,21 +23,19 @@ The list of themes fixed and tested with e107 version 2.3.1
 
 
 
-## Themes with extended support (access to private repos)
+### Themes with extended support (access to private repos)
 
 * [Landing Zero UG e107 Theme](https://github.com/e107-themes/LZ-theme-for-urbangamers) - version 1.2.2, for e107 2.3.1, PHP 7.4 
 
 * [Landing Zero SC e107 Theme](https://github.com/e107-themes/LZ-theme-for-scupone) - version 1.4.2 Local, for e107 2.3.0, PHP 7.4
 
 
-## Themes with extended support (access to private repos) bootstrap5 only
+### Themes with extended support (access to private repos) bootstrap5 only
 
 * [Freelancer e107 Theme](https://github.com/e107-themes/e107-Freelancer-theme-1.5) - version 1.5.0 Local, for e107 2.3.1, PHP 7.4
 
 
-## Free themes with forum support only 
-
-* [Landing Zero 2 e107 Theme version 1.4](https://github.com/e107-themes/Landing-Zero-2-version-1.4) - version 1.4.2, for e107 2.3.0 only
+### Free themes with forum support only 
 
 * [SkyApp e107 Theme version 2.0](https://github.com/e107-themes/skyapp-e107-theme) - version 2.0.2, for e107 2.3.1 only
 
