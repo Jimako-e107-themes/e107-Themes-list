@@ -79,10 +79,6 @@ Epiphany is e107 theme based on efiction responsive skin by artphilia. Testing w
 
 Artemis is e107 theme based on Soft UI Design System (Free & Open Source Web UI Kit built over Bootstrap 5.) created by Creative Tim.
 
-* [e107 Sommerbrise Bootstrap5 theme ](https://github.com/e107-themes/Sommerbrise) 
-
-Sommerbrise is e107 theme based on efiction responsive skin by artphilia. Testing with bootstrap5. Primary for efiction plugin.  
-
 * [e107 Snow White Bootstrap5 theme ](https://github.com/Jimako-e107-themes/SnowWhite) 
 
 Snow White is e107 theme based on efiction responsive skin by artphilia. Testing with bootstrap5. Primary for efiction plugin.  
