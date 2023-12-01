@@ -38,17 +38,6 @@ Old themes updated for version 2 without release.
 * [e107 Games Plus by maw](https://github.com/e107-themes/e107-Games-Plus-maw-theme)  
 * [e107 Cadet Theme by maw](https://github.com/e107-themes/e107-Cadet-Plus-maw-theme)  
 * [e107 Flat Theme by maw](https://github.com/e107-themes/e107-Flat-maw-theme) 
-
-## Themes for somebody else(private repos)
-No plans to release, just helping somebody
-
-* [e107 Juliette theme](https://github.com/e107-themes/e107-juliette-theme)  
-
-Theme based on this HTML template: https://bootstrapious.com/p/juliette-bootstrap-feminine-blog-template
-
-More info: https://www.e107sk.com/forum/general-theme-questions/260/juliette-theme-development-notes/
-
-
  
 
 ## Themes in development
