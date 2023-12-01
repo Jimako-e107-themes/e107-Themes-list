@@ -1,5 +1,9 @@
 # [e107 Bootstrap Landing Zero 2](https://www.e107sk.com/)
 
+## Version 1.6
+
+- UPDATED support/help information
+- UPDATED path to masthead plugin
 
 ## Version 1.5  
 
