@@ -12,19 +12,7 @@ If you find a problem, report it as issue and I will try to fix it.  But those t
  
 
 ## The list of themes fixed and tested with e107 version 2.3.1
-
-### Premium Themes (private repos)
-
-* [AppStrap e107 Theme](https://github.com/e107-Appstrap-theme) - fixed for 2.3.1
-
-* [Cayman e107 Theme](https://github.com/e107-Cayman-theme) - new theme with new standards
-
-* [Gaia e107 Theme](https://github.com/e107-Gaia-Hestia-themes) - new version for 2.3.1
-
-* [Hestia e107 Theme](https://github.com/e107-Gaia-Hestia-themes) - new version for 2.3.1
-
-
-
+ 
 ### Themes with extended support (access to private repos)
 
 * [Landing Zero UG e107 Theme](https://github.com/e107-themes/LZ-theme-for-urbangamers) - version 1.2.2, for e107 2.3.1, PHP 7.4 
