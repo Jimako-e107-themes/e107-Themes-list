@@ -1,7 +1,9 @@
 # e107 Themes list
 
  
-##  Themes with Github support
+## The list of themes fixed and tested with e107 version 2.3.3
+
+###  Themes with Github support
 
 If you find a problem, report it as issue and I will try to fix it.  But those themes are not used anymore.  
 
