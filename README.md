@@ -10,18 +10,25 @@ If you find a problem, report it as issue and I will try to fix it.  But those t
 * [Landing Zero 2 e107 Theme](https://github.com/e107-themes/Landing-Zero-2) - version 1.6, for e107 2.3.3, PHP 8.1
 
  
+* [Call of Duty: Ghosts theme](https://github.com/Jimako-e107-themes/cod_ghost) - version 2.0, for e107 2.3.3, PHP 8.1
+
+ 
 
 ## The list of themes fixed and tested with e107 version 2.3.1
 
 ### Premium Themes (private repos)
 
-* [AppStrap e107 Theme](https://github.com/e107-Appstrap-theme) - fixed for 2.3.1
+*  AppStrap e107 Theme - fixed for 2.3.1
 
-* [Cayman e107 Theme](https://github.com/e107-Cayman-theme) - new theme with new standards
+The most advanced theme at that time...  revolution slider support and other similar stuff. 
+Not available anymore... only JMG child theme is fixed on demand
 
-* [Gaia e107 Theme](https://github.com/e107-Gaia-Hestia-themes) - new version for 2.3.1
+ 
+*  Gaia e107 Theme  - new version for 2.3.1
 
-* [Hestia e107 Theme](https://github.com/e107-Gaia-Hestia-themes) - new version for 2.3.1
+*  Hestia e107 Theme   - new version for 2.3.1
+
+Not available anymore...  if I find backup somewhere, I will add them 
 
 
 
