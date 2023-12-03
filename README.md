@@ -15,23 +15,7 @@ If you find a problem, report it as issue and I will try to fix it.  But those t
  
 
 ## The list of themes fixed and tested with e107 version 2.3.1
-
-### Premium Themes (private repos)
-
-*  AppStrap e107 Theme - fixed for 2.3.1
-
-The most advanced theme at that time...  revolution slider support and other similar stuff. 
-Not available anymore... only JMG child theme is fixed on demand
-
  
-*  Gaia e107 Theme  - new version for 2.3.1
-
-*  Hestia e107 Theme   - new version for 2.3.1
-
-Not available anymore...  if I find backup somewhere, I will add them 
-
-
-
 ### Themes with extended support (access to private repos)
 
 * [Landing Zero UG e107 Theme](https://github.com/e107-themes/LZ-theme-for-urbangamers) - version 1.2.2, for e107 2.3.1, PHP 7.4 
@@ -45,17 +29,6 @@ Old themes updated for version 2 without release.
 * [e107 Games Plus by maw](https://github.com/e107-themes/e107-Games-Plus-maw-theme)  
 * [e107 Cadet Theme by maw](https://github.com/e107-themes/e107-Cadet-Plus-maw-theme)  
 * [e107 Flat Theme by maw](https://github.com/e107-themes/e107-Flat-maw-theme) 
-
-## Themes for somebody else(private repos)
-No plans to release, just helping somebody
-
-* [e107 Juliette theme](https://github.com/e107-themes/e107-juliette-theme)  
-
-Theme based on this HTML template: https://bootstrapious.com/p/juliette-bootstrap-feminine-blog-template
-
-More info: https://www.e107sk.com/forum/general-theme-questions/260/juliette-theme-development-notes/
-
-
  
 
 ## Themes in development
@@ -74,8 +47,4 @@ Theme with AYRO-UI design elements
 
 Theme with AYRO-UI design elements. Not released.  Private repo.
 
-* [Cayman e107 Theme](https://github.com/Jimako-e107-themes/Cayman-Themes) 
-
-Not released. It uses bootstrap3, there is not reason to continue when bootstrap5 is out
-
-
+ 
